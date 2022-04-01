@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b376e4cebd0ee45b7ca3ea49a92b0b, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  m_Description: Increases Endurance by 15
+  m_Icon: {fileID: 21300000, guid: 014a8d329301ffa4cba4b162829d751f, type: 3}
+  m_LevelNeeded: 2
+  m_XPNeeded: 20
+  m_GoldPiecesNeeded: 20
+  m_IsUnlocked: 0
+  m_IsUnlockable: 0
+  m_IsBought: 0
+  m_AffectedAttributes:
+  - attributes: {fileID: 11400000, guid: 4acb91172fa7b094db717b907d9a8f9a, type: 2}
+    amount: 15
+  m_NecessaryUnlockedSkills: []
